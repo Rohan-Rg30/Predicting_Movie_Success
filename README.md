@@ -140,16 +140,20 @@ Feature Correlation: Film duration and gross revenue show strong visual separati
 
 [ ] Build a web UI dashboard using Streamlit to predict movie success for upcoming titles.
 
+---
 
-🤝 Contributing
-Contributions, issues, and feature requests are welcome! Feel free to fork this repository and submit a pull request.
+## 🤝 Contributing
 
+Contributions, issues, and feature requests are welcome. Feel free to check the [issues page](https://github.com/Rohan_Rg30/Predicting_Hotel_Reservation_Cancellations/issues) or open a pull request.
 
-📜 License
-This project is open-source and available for educational and demonstration purposes.
+## 📜 License
 
+**© Spinnaker Analytics**. All rights reserved.
+This project was assigned by Spinnaker Analytics and is the property of Spinnaker Analytics. It is shared publicly on GitHub for portfolio/demonstration purposes only. No part of this code, dataset pipeline, or documentation may be copied, redistributed, or used commercially without written permission from Spinnaker Analytics.
 
-🙋 Author
-Rohan Gaikwad — Data Scientist & AI Specialist
+## 🙋 Author
 
-LinkedIn: Rohan Gaikwad
+**Rohan Gaikwad — Data Scientist & AI Specialist** - [LinkedIn](https://www.linkedin.com/in/rohan-gaikwad-8b1976418)
+
+---
+<p align="center">⭐ If you found this project useful, consider giving it a star!</p>

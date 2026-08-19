@@ -140,6 +140,7 @@ Feature Correlation: Film duration and gross revenue show strong visual separati
 
 [ ] Build a web UI dashboard using Streamlit to predict movie success for upcoming titles.
 
+```
 ---
 
 ## 🤝 Contributing
